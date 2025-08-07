@@ -1,8 +1,8 @@
-📝 Mad Libs Story Generator
+Mad Libs Story Generator
 
 A simple Java program that generates a fun, randomized Mad Libs-style story using pre-defined words and a templated sentence structure.
 
-📌 Project Overview
+Project Overview:
 
 This program fills in a story template with:
 
@@ -10,7 +10,7 @@ This program fills in a story template with:
 
     A final story is printed using the filled-in values
 
-🛠️ How to Run
+How to Run:
 
     Save the file as MadLibs.java.
 
@@ -29,7 +29,7 @@ They began to dance to the rhythm of the beat, which made all the activists very
 Concerned, I texted Qiniso, who flew I to johannesburg and dropped I in a puddle of frozen jelly. 
 I woke up in the year 3000, in a world where robots ruled the world.
 
-📘 Concepts Used
+Concepts Used
 
     Java String operations
 
